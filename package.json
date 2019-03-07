@@ -1,0 +1,19 @@
+{
+  "name": "simplenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/times1623/simplenode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/times1623/simplenode/issues"
+  },
+  "homepage": "https://github.com/times1623/simplenode#readme"
+}
